@@ -28,9 +28,9 @@ This is a simple task manager application built using Node.js, Express.js, Mongo
    npm install
    ```
 
-3. Set up environment variables:
+3. Set up environment variables  (Optional) no need to do this:
    
-   Create a `.env` file in the root directory and add the following variables:
+   Optional ------   Create a `.env` file in the root directory and add the following variables:
 
    ```
    PORT=3000
